@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/activity_task.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/activity_task.xml"
+    },
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/settings_activity.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/content_task.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/content_task.xml"
+    },
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/activity_add_task.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/activity_task_detail.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/activity_task_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.todoapp-mergeDebugResources-47:/layout/task_item.xml",
+        "source": "com.dicoding.todoapp-main-50:/layout/task_item.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blu">#4C7E98</color>
+    <color name="biru">#00A9FF</color>
+    <color name="teal">#00A9FF</color>
+    <color name="biru_1">#0756F3</color>
+    <color name="magenta">#8347ED</color>
+    <color name="blu700">#0005FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
