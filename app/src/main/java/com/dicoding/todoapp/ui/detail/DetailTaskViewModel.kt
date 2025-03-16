@@ -26,4 +26,4 @@ class DetailTaskViewModel(private val taskRepository: TaskRepository): ViewModel
             _task.value?.let { taskRepository.deleteTask(it) }
         }
     }
-}
+} 
